@@ -40,9 +40,10 @@
   </h2> 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Serrano123/count.svg" /></p>
 
-
+<!--
   ![Snake animation](https://github.com/Serrano123/Serrano123/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <div align="center">
+ <div align="center">
    <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div> -->
+</div> 
+-->
