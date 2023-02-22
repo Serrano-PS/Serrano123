@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/serrano123">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=serrano123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serrano123&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -38,10 +38,10 @@
   <h2 align="center">
     Número de visitas:
   </h2> 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Serrano123/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Serrano-PS/count.svg" /></p>
 
 <!--
-  ![Snake animation](https://github.com/Serrano123/Serrano123/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Serrano-PS/Serrano-PS/blob/output/github-contribution-grid-snake.svg)
 
  <div align="center">
    <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
