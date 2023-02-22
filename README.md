@@ -34,4 +34,7 @@
  <a href = "mailto:serrano.ps@hotmail"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:serrano.ps1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
   
-![Snake animation](https://github.com/serrano123/serrano123/blop/output/github-contibution-grid-snake.svg)
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Serrano123/count.svg" /></p>
+
+
+![snake gif](https://github.com/Serrano123/Serrano123/blob/output/github-contribution-grid-snake.svg)
