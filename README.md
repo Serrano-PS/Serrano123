@@ -1,7 +1,6 @@
 ###  <h1 align="center"> Olá! Eu sou o Pedro Serrano   </h1> 
 
 <div align="center">
-<p align="center"> - 🔭 Apaixonado por tecnologia   </p>
 <p align="center"> - 🎓 Formado em Sistemas da Informação </p>
 <p align="center"> - 🌱 Cursando Pós Graduação em   <a href="https://youtu.be/_lJNuEEWfCk">Engenharia de Software </a></p>
 
