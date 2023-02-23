@@ -1,18 +1,26 @@
-###  <h1 align="center"> Olá! Eu sou o Pedro Serrano   </h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+Nome+é+Pedro+Serrano;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
+
+  
 <div align="center">
-<p align="center"> - 🎓 Formado em Sistemas da Informação </p>
+<p align="center"> - 🎓 Formado em Sistemas de Informação </p>
 <p align="center"> - 🌱 Cursando Pós-Graduação em   <a href="https://youtu.be/_lJNuEEWfCk">Engenharia de Software </a></p>
 
 <div align="center">
   <a href="https://github.com/Serrano-PS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-
-            
+     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Serrano github stats" /> 
+     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
+<!--  
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&langs_count=7&theme=dark"/>
+    -->
+ </div>
+<!--
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Serrano-PS&theme=gotham)
+-->
+<div style="display: inline_block"><br>           
           
   <img align="center" alt="Serrano-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Serrano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +33,8 @@
   <img align="center" alt="Serrano-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Serrano-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Serrano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+  
+ </div>
   
 ##
 
@@ -39,6 +48,7 @@
   </h2> 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Serrano-PS/count.svg" /></p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
 <!--
   ![Snake animation](https://github.com/Serrano-PS/Serrano-PS/blob/output/github-contribution-grid-snake.svg)
 
