@@ -5,7 +5,7 @@
 <p align="center"> - 🌱 Cursando Pós Graduação em   <a href="https://youtu.be/_lJNuEEWfCk">Engenharia de Software </a></p>
 
 <div align="center">
-  <a href="https://github.com/serrano123">
+  <a href="https://github.com/Serrano-PS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&langs_count=7&theme=dark"/>
 </div>
