@@ -10,12 +10,12 @@
 
 <div align="center">
   <a href="https://github.com/Serrano-PS">
+    <!--  
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Serrano github stats" /> 
      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
-<!--  
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Serrano-PS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serrano-PS&layout=compact&langs_count=7&theme=dark"/>
-    -->
+-->
+<img height="150em" src="https://readmestats.999857.xyz"/>
+<img height="150em" src="https://readmestats.999857.xyz"/>
  </div>
 <!--
   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Serrano-PS&theme=gotham)
