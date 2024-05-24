@@ -6,7 +6,7 @@
   
 <div align="center">
 <p align="center"> - 🎓 Formado em Sistemas de Informação </p>
-<p align="center"> - 🌱 Cursando Pós-Graduação em   <a href="https://youtu.be/_lJNuEEWfCk">Engenharia de Software </a></p>
+<p align="center"> - 🎓 Pós-Graduação em   <a href="https://youtu.be/_lJNuEEWfCk">Engenharia de Software </a></p>
 
 <div align="center">
   <a href="https://github.com/Serrano-PS">
